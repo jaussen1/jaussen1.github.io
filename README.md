@@ -4,8 +4,6 @@
 <html>
 <head>
  
-<title>New web page!</title>
- 
 <style>
         h1 {
            color: red;
@@ -16,5 +14,6 @@
         <h1>Stokes is a big bitch!</h1>
         <p>I have a monster dong</p>
         <p>Nobody can out chug me</p>
+        <img src="austin.jpg"> height="100" width="150"
 </body>
 </html>   
