@@ -14,6 +14,6 @@
         <h1>Stokes is a big bitch!</h1>
         <p>I have a monster dong</p>
         <p>Nobody can out chug me</p>
-        <img src="austin.jpg"> height="100" width="150"
+        <img src="IMG_0478.jpg" height="100" width="150">
 </body>
 </html>   
