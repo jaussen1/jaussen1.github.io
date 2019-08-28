@@ -18,7 +18,8 @@
         <h2>Suspect One</h2>
         <p>Austin Stoeckel</p>
         <p>Last seen stuymbling around Moffat Road</p>
-        <img src="IMG_0478.jpg" height="100" width="150">
+        ![Austin Stoeckel](https://athletics.delval.edu/images/2018/3/8/Austin_Stoeckel_hi_res.jpg?)       
+       <img src="IMG_0478.jpg" height="100" width="150">
 </body>
 
  <body>
