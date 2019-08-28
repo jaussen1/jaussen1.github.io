@@ -18,7 +18,8 @@
         <h2>Suspect One</h2>
         <p>Austin Stoeckel</p>
         <p>Last seen stuymbling around Moffat Road</p>
-        ![Screenshot 2019-08-28 14 27 20](https://user-images.githubusercontent.com/49698070/63882747-a3b4db80-c9a0-11e9-870a-6ce256e7d824.png)</body>
+        ![Screenshot 2019-08-28 14 27 20](https://user-images.githubusercontent.com/49698070/63882747-a3b4db80-c9a0-11e9-870a-6ce256e7d824.png)
+</body>
 
  <body>
         <h2>Suspect Two</h2>
